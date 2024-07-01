@@ -13,7 +13,7 @@
 
 - TTF resources from font space with file from GeelynEdits ¬
 
-BIBLIOGRAPHY ¬
+SOURCES ¬
 - https://en.wikipedia.org/wiki/Pong
 - https://www.pygame.org/docs/
 - https://code.visualstudio.com
